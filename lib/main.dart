@@ -73,11 +73,11 @@ class _BackgroundCaptureDemoState extends State<BackgroundCaptureDemo>
           backgroundKey: backgroundKey,
           shader: liquidGlassLensShader,
           child: Center(
-            child: Image.asset(
-              'assets/images/photo.png',
-              width: 72,
-              height: 72,
-            ),
+          //   child: Image.asset(
+          //     'assets/images/photo.png',
+          //     width: 72,
+          //     height: 72,
+          //   ),
           ),
         ),
       ],
